@@ -3,7 +3,7 @@
 *.pyc
 bootstrap
 resources
-nombre_proyecto/local_settings.py
+prodeonline/local_settings.py
 media/*
 static/*
 #PyCharm
