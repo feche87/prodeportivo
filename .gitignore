@@ -7,3 +7,4 @@ nombre_proyecto/local_settings.py
 media/*
 static/*
 #PyCharm
+.idea/
