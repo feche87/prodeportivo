@@ -112,6 +112,10 @@ INSTALLED_APPS = (
     # 'django.contrib.admindocs',
 
     'south',
+
+    # Our apps
+    'prode',
+
 )
 
 SESSION_SERIALIZER = 'django.contrib.sessions.serializers.JSONSerializer'
